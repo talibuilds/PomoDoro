@@ -9,7 +9,7 @@ A simple Pomodoro timer built with Python and Tkinter. This desktop application 
 - 25-minute work sessions
 - 5-minute short breaks
 - 20-minute long break every 4 work sessions
-- Visual countdown timer with start/reset buttons
+- Visual countdown timer with start/reset buttons with clean UI
 - Check mark display for completed work intervals
 
 ---
