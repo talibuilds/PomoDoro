@@ -1,6 +1,6 @@
 # Pomodoro Timer
 
-A simple Pomodoro timer built with Python and Tkinter. This desktop application helps you focus by breaking your work into intervals (work and breaks) following the Pomodoro Technique.
+A simple Pomodoro timer built with Python and Tkinter's GUI. This desktop application helps you focus by breaking your work into intervals (work and breaks) following the Pomodoro Technique.
 
 ---
 
